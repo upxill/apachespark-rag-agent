@@ -49,7 +49,7 @@ graph LR
 1. Clone the repository:
    ```bash
    git clone <repository-url>
-   cd spark-rag-agent
+   cd apachespark-rag-agent
    ```
 
 2. Install dependencies:
