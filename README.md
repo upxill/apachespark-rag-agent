@@ -124,6 +124,4 @@ The code is organized into a `SparkRAGAgent` class with the following key method
 - `run_query()`: Execute queries
 - `stream_query()`: Debug streaming execution
 
-## License
-
-[Add your license here]
+ 
