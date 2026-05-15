@@ -1,5 +1,5 @@
 [project]
-name = "spark-rag-agent"
+name = "apachespark-rag-agent"
 version = "0.1.0"
 description = "Add your description here"
 readme = "README.md"
